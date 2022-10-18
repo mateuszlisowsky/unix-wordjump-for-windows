@@ -1,4 +1,6 @@
 # Unix Wordjump for Windows
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/FoxSaysDerp/unix-wordjump-for-windows?sort=semver&style=flat-square)
+
 Wordjump on various text environments using Alt/Option, like *nix systems, instead of Ctrl for Windows (🤢).
 
 ## How tu use?
