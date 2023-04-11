@@ -2,5 +2,9 @@ $^left::Send, {home}
 $^right::Send, {end}
 $!left::Send, ^{left}
 $!right::Send, ^{right}
+$!+left::Send, ^+{left}
+$!+right::Send, ^+{right}
+$^+left::Send, +{home}
+$^+right::Send, +{end}
 !BS::Send, ^{Backspace}
 ^q::Send !{F4}
